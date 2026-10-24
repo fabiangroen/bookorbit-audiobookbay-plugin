@@ -35,6 +35,10 @@ node verify.mjs
 
 The check script runs the plugin against saved markup and a fake host. It makes no network requests.
 
+## Credits
+
+Written with the help of Claude (Anthropic), under Fabian Groen's direction and testing.
+
 ## Disclaimer
 
 This project is not affiliated with AudioBook Bay or BookOrbit. The plugin is a client for a third-party website that links to material it does not host. You are responsible for what you download and for following the laws that apply to you. The authors do not host or distribute any audiobook files.
